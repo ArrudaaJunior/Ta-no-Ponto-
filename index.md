@@ -1,13 +1,9 @@
 ## Bem vindo!
 
-You can use the [editor on GitHub](https://github.com/JuniorArrudaa/Ta-no-Ponto-/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### O que é a Ta no Ponto?
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+É uma empress focada no ramo da fabricação de queijo de coalho de pequena e media empressas.
 ```markdown
 Syntax highlighted code block
 
