@@ -12,3 +12,7 @@ O dispositivo foca no monitoramento de processos na produção de queijo coalho 
 
 
 ![Ta no Ponto!](https://github.com/JuniorArrudaa/Ta-no-Ponto-/blob/master/Logo%20Ta%20no%20ponto.jpg)
+
+
+#### Video esplicativo
+[![Ta no ponto](http://img.youtube.com/vi/bXCug44Ie88/0.jpg)](http://www.youtube.com/watch?v=bXCug44Ie88 "Vídeo demostrativo ")
