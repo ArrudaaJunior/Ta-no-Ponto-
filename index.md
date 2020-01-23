@@ -16,3 +16,6 @@ O dispositivo foca no monitoramento de processos na produção de queijo coalho 
 
 #### Video esplicativo
 [![Ta no ponto](http://img.youtube.com/vi/bXCug44Ie88/0.jpg)](http://www.youtube.com/watch?v=bXCug44Ie88 "Vídeo demostrativo ")
+
+Curta nossas redes sociais!
+[instagram](https://www.instagram.com/startup_tanoponto/?hl=pt-br)
